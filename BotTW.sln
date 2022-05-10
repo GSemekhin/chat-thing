@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotTW", "BotTW\BotTW.csproj", "{73898F1D-43C1-467B-85E7-BF341BD9D6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73898F1D-43C1-467B-85E7-BF341BD9D6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73898F1D-43C1-467B-85E7-BF341BD9D6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73898F1D-43C1-467B-85E7-BF341BD9D6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73898F1D-43C1-467B-85E7-BF341BD9D6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180E6DF8-599E-45B4-967D-046E0DAAF8C7}
+	EndGlobalSection
+EndGlobal
